@@ -1,10 +1,17 @@
 .button-group {
+	font-family: Questrial;
+	padding: 20px;
 	text-align: center;
-	padding: 20px; 
+	float: center;
 }
 
 .bottom-nav-bar {
-	padding-top: 50px;
+	padding-top: 100px;
+	font-family: Questrial;
+}
+
+.bottom-nav-bar-about-me {
+	padding-top: 100px;
 	font-family: Questrial;
 }
 
@@ -63,7 +70,7 @@
 
 .panel-headd{
 	letter-spacing: 5px;
-	text-align: center justify;
+	text-align: center;
     margin: 0 auto;
 	float: center;
 	word-spacing: 10px;
@@ -71,7 +78,6 @@
 	line-height: 1.5;
 	font-family: Questrial;
 	border: 0px solid #0099cc;
-	float: center;
 	margin-left: 20px;
 	margin-bottom: 40px;
 }
@@ -81,7 +87,7 @@
   vertical-align: top;
   margin-right: 2em;
   margin-left: 2em;
-  float: center;=
+  float: center;
 }
 
 .panel-body {
@@ -93,6 +99,11 @@
 	word-spacing: 3px;
 	font-family: Questrial;
 	line-height: 1.5;
+}
+
+.panel{
+	padding: 20px;
+	min-width: 450px;
 }
 
 .button {
@@ -109,7 +120,9 @@
 }
 
 .jumbotron{
+	position: center;
     background-color:#FFFFFF;
+	min-width: 600px;
 }
 
 .information{
@@ -121,13 +134,19 @@
 }
 
 .namestake{
-	padding: 100px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-left: 20px;
+	padding-right: 20px;
     letter-spacing: 8px;
-	text-align: center;
-    margin: 0 auto;
+	text-align: center justify;
 	letter-spacing: 15px;
 	font-family: Questrial;
 	color: #666666;
+    margin: 0 auto;
+	float: center;
+	word-spacing: 16px;
+	line-height: 1.5;
 }
 
 .descriptionstake{
@@ -140,10 +159,6 @@
 	font-family: Questrial;
 	line-height: 1.5;
 	color: #808080;
-}
-
-.button-group {
-	font-family: Questrial;
 }
 
 
