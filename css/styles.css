@@ -34,6 +34,106 @@
 	border: 2px solid #eb8f34;
 	color: #eb8f34;
 }
+
+.panel-custom-red {
+	padding: 30px;
+	border: 2px solid #FF9999;
+}
+
+.panel-custom-green {
+	padding: 30px;
+	border: 2px solid #FF9999;
+}
+
+.panel-custom-padding {
+	padding-top: 30px;
+}
+
+.cs-head-title {
+	padding: 40px;
+	letter-spacing: 10px;
+	text-align: center justify;
+    margin: 0 auto;
+	float: center;
+	word-spacing: 10px;
+	font-family: Questrial;
+	line-height: 1.5;
+	font-size: 65px;
+	font-family: Questrial;
+	padding: 20px;
+	margin-left: 10px;
+	color: #f25454;
+}
+
+.ling-head-title {
+	padding: 40px;
+	letter-spacing: 10px;
+	text-align: center justify;
+    margin: 0 auto;
+	float: center;
+	word-spacing: 10px;
+	font-family: Questrial;
+	line-height: 1.5;
+	font-size: 65px;
+	font-family: Questrial;
+	padding: 20px;
+	margin-left: 10px;
+	color: #00BF6F;
+}
+
+.comm-head-title {
+	padding: 40px;
+	letter-spacing: 10px;
+	text-align: center justify;
+    margin: 0 auto;
+	float: center;
+	word-spacing: 10px;
+	font-family: Questrial;
+	line-height: 1.5;
+	font-size: 65px;
+	font-family: Questrial;
+	padding: 20px;
+	margin-left: 10px;
+	color: #31CDE8;
+}
+
+.jumbotron-cs-padding {
+	float: center;
+	padding-top: 20px;
+}
+
+.cs-body-mods {
+	padding-top: 70px;
+	color: #A27272;
+	padding-bottom: 30px;
+	font-size: 18px;
+	text-align: justify;
+}
+
+.ling-body-mods {
+	padding-top: 70px;
+	color: #889288;
+	padding-bottom: 30px;
+	font-size: 18px;
+	text-align: justify;
+}
+
+.comm-body-mods {
+	padding-top: 70px;
+	color: #81A5B7;
+	padding-bottom: 30px;
+	font-size: 18px;
+	text-align: center;
+}
+
+.compsci-git-pad {
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+
+.shift-everything-fucking-down {
+	padding-top: 100px;
+}
 .panel-head-title {
 	padding: 20px;
 	letter-spacing: 5px;
@@ -154,7 +254,7 @@
 	color: #808080;
 }
 
-
+#wrapper img, #wrapper object, #wrapper embed { max-width: 100%; height: auto; }
 
 
 
@@ -533,4 +633,5 @@
 	margin-bottom: -3px;
 	margin-top: 3px;
 }
+
 .btn-d
