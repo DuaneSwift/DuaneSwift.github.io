@@ -1,12 +1,12 @@
 .button-group {
 	font-family: Questrial;
-	padding: 20px;
+	padding: 2vh;
 	text-align: center;
 	float: center;
 }
 
 .bottom-nav-bar {
-	padding-top: 100px;
+	padding-top: 11vh;
 	font-family: Questrial;
 }
 
@@ -36,21 +36,21 @@
 }
 
 .panel-custom-red {
-	padding: 30px;
+	padding: 3vh;
 	border: 2px solid #FF9999;
 }
 
 .panel-custom-green {
-	padding: 30px;
+	padding: 3vh;
 	border: 2px solid #FF9999;
 }
 
 .panel-custom-padding {
-	padding-top: 30px;
+	padding-top: 3vh;
 }
 
 .cs-head-title {
-	padding: 40px;
+	padding: 4vh;
 	letter-spacing: 10px;
 	text-align: center justify;
     margin: 0 auto;
@@ -60,13 +60,13 @@
 	line-height: 1.5;
 	font-size: 65px;
 	font-family: Questrial;
-	padding: 20px;
-	margin-left: 10px;
+	padding: 2vh;
+	margin-left: 1vh;
 	color: #f25454;
 }
 
 .ling-head-title {
-	padding: 40px;
+	padding: 4vh;
 	letter-spacing: 10px;
 	text-align: center justify;
     margin: 0 auto;
@@ -76,13 +76,13 @@
 	line-height: 1.5;
 	font-size: 65px;
 	font-family: Questrial;
-	padding: 20px;
-	margin-left: 10px;
+	padding: 2vh;
+	margin-left: 1vh;
 	color: #00BF6F;
 }
 
 .comm-head-title {
-	padding: 40px;
+	padding: 4vh;
 	letter-spacing: 10px;
 	text-align: center justify;
     margin: 0 auto;
@@ -92,50 +92,50 @@
 	line-height: 1.5;
 	font-size: 65px;
 	font-family: Questrial;
-	padding: 20px;
-	margin-left: 10px;
+	padding: 2vh;
+	margin-left: 1vh;
 	color: #31CDE8;
 }
 
 .jumbotron-cs-padding {
 	float: center;
-	padding-top: 20px;
+	padding-top: 2vh;
 }
 
 .cs-body-mods {
-	padding-top: 70px;
+	padding-top: 7vh;
 	color: #A27272;
-	padding-bottom: 30px;
+	padding-bottom: 3vh;
 	font-size: 18px;
 	text-align: justify;
 }
 
 .ling-body-mods {
-	padding-top: 70px;
+	padding-top: 7vh;
 	color: #889288;
-	padding-bottom: 30px;
+	padding-bottom: 3vh;
 	font-size: 18px;
 	text-align: justify;
 }
 
 .comm-body-mods {
-	padding-top: 70px;
+	padding-top: 7vh;
 	color: #81A5B7;
-	padding-bottom: 30px;
+	padding-bottom: 3vh;
 	font-size: 18px;
 	text-align: center;
 }
 
 .compsci-git-pad {
-	padding-top: 50px;
-	padding-bottom: 10px;
+	padding-top: 5vh;
+	padding-bottom: 1vh;
 }
 
 .shift-everything-fucking-down {
-	padding-top: 100px;
+	padding-top: 11vh;
 }
 .panel-head-title {
-	padding: 20px;
+	padding: 2vh;
 	letter-spacing: 5px;
 	text-align: center justify;
     margin: 0 auto;
@@ -145,11 +145,11 @@
 	line-height: 1.5;
 	font-size: 65px;
 	font-family: Questrial;
-	padding: 20px;
-	margin-left: 10px;
+	padding: 2vh;
+	margin-left: 1vh;
 }
 .panel-title {
-	padding: 20px;
+	padding: 2vh;
 	letter-spacing: 5px;
 	text-align: center justify;
     margin: 0 auto;
@@ -159,8 +159,8 @@
 	line-height: 1.5;
 	font-size: 50px;
 	font-family: Questrial;
-	padding: 20px;
-	margin-left: 10px;
+	padding: 2vh;
+	margin-left: 1vh;
 }
 
 .panel-headd{
@@ -173,8 +173,8 @@
 	line-height: 1.5;
 	font-family: Questrial;
 	border: 0px solid #0099cc;
-	margin-left: 20px;
-	margin-bottom: 40px;
+	margin-left: 2vh;
+	margin-bottom: 4vh;
 }
 
 .rowe > div {
@@ -186,7 +186,7 @@
 }
 
 .panel-body {
-	padding: 20px;
+	padding: 2vh;
 	letter-spacing: 2px;
 	text-align: left justify;
     margin: 0 auto;
@@ -197,7 +197,7 @@
 }
 
 .panel{
-	padding: 20px;
+	padding: 2vh;
 }
 
 .button {
@@ -220,7 +220,7 @@
 
 .information{
 	font-weight: 200;
-	padding-bottom: 60px;
+	padding-bottom: 6vh;
 	text-align: center;
     margin: 0 auto;
 	float: center;
@@ -228,9 +228,9 @@
 
 .namestake{
 	padding-top: 11vh;
-	padding-bottom: 100px;
-	padding-left: 20px;
-	padding-right: 20px;
+	padding-bottom: 11vh;
+	padding-left: 2vh;
+	padding-right: 2vh;
     letter-spacing: 8px;
 	text-align: center justify;
 	letter-spacing: 15px;
@@ -243,7 +243,7 @@
 }
 
 .descriptionstake{
-	padding: 20px;
+	padding: 2vh;
 	letter-spacing: 4px;
 	text-align: center justify;
     margin: 0 auto;
@@ -253,8 +253,6 @@
 	line-height: 1.5;
 	color: #808080;
 }
-
-#wrapper img, #wrapper object, #wrapper embed { max-width: 100%; height: auto; }
 
 
 
