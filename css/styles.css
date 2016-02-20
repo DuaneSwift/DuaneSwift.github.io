@@ -19,31 +19,31 @@
 .panel-primary {
 	border: 2px solid #7DB5CA;
 	color: #0099cc;
-	border-radius: 24px;
+	border-radius: 2.4vh;
 }
 
 .panel-success {
 	border: 2px solid #8ACAB0;
 	color: #00bf6f;
-	border-radius: 24px;
+	border-radius: 2.4vh;
 }
 
 .panel-info {
 	border: 2px solid #ABDEE8;
 	color: #31cde8;
-	border-radius: 24px;
+	border-radius: 2.4vh;
 }
 
 .panel-danger {
 	border: 2px solid #F39595;
 	color: #f25454;
-	border-radius: 24px;
+	border-radius: 2.4vh;
 }
 
 .panel-warning {
 	border: 2px solid #E6B483;
 	color: #eb8f34;
-	border-radius: 24px;
+	border-radius: 2.4vh;
 }
 
 .panel-custom-red {
@@ -134,7 +134,7 @@
 	color: #81A5B7;
 	padding-bottom: 3vh;
 	font-size: 18px;
-	text-align: center;
+	text-align: justify;
 }
 
 .compsci-git-pad {
