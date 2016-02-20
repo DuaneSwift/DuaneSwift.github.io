@@ -156,8 +156,7 @@
 	line-height: 1.5;
 	font-size: 65px;
 	font-family: Questrial;
-	padding: 2vh;
-	margin-left: 1vh;
+	margin-left: 1vw;
 }
 .panel-title {
 	padding: 2vh;
@@ -170,8 +169,7 @@
 	line-height: 1.5;
 	font-size: 50px;
 	font-family: Questrial;
-	padding: 2vh;
-	margin-left: 1vh;
+	margin-left: 1vw;
 }
 
 .panel-headd{
@@ -184,15 +182,15 @@
 	line-height: 1.5;
 	font-family: Questrial;
 	border: 0px solid #0099cc;
-	margin-left: 2vh;
+	margin-left: 2vw;
 	margin-bottom: 4vh;
 }
 
 .rowe > div {
   display: inline-block;
   vertical-align: top;
-  margin-right: 2em;
-  margin-left: 2em;
+  margin-right: 3vw;
+  margin-left: 3vw;
   float: center;
 }
 
@@ -241,8 +239,8 @@
 .namestake{
 	padding-top: 11vh;
 	padding-bottom: 11vh;
-	padding-left: 2vh;
-	padding-right: 2vh;
+	padding-left: 2vw;
+	padding-right: 2vw;
     letter-spacing: 8px;
 	text-align: center justify;
 	letter-spacing: 15px;
