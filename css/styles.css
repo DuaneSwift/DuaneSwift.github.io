@@ -1,3 +1,27 @@
+.panel-body-primary {
+	color: #0099cc;
+}
+
+.panel-body-success {
+	color: #00bf6f;
+}
+
+.panel-body-info {
+	color: #31cde8;
+}
+
+.panel-body-danger {
+	color: #f25454;
+}
+
+.panel-body-warning {
+	color: #eb8f34;
+}
+
+.panel-body-greyed {
+	color: #A0A0A0;
+}
+
 .button-group {
 	font-family: Questrial;
 	text-align: center;
@@ -264,6 +288,26 @@
 	color: #808080;
 }
 
+.scroll-top {
+  text-align: center;
+}
+
+.alltheprojects {
+	padding-top: 5vh;
+}
+
+.lkdin {
+	text-align: right;
+}
+
+.bth {
+	text-align: right;
+}
+
+.wmbd {
+	text-align: left;
+}
+
 
 
 
@@ -366,8 +410,8 @@
 }
 
 .btn-greyed {
-	border-color: #A0A0A0
-	color: #A0A0A0;
+	border: 2px solid #A0A0A0;
+	border-color;
 }
 
 /******************************************************
