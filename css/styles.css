@@ -40,6 +40,10 @@
 	font-family: Questrial;
 }
 
+.navbar {
+	color:#FFFFFF;
+}
+
 .panel-primary {
 	border: 2px solid #7DB5CA;
 	color: #0099cc;
