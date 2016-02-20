@@ -4,6 +4,13 @@
 	float: center;
 }
 
+.button-group-main {
+	padding-top: 5vh;
+	font-family: Questrial;
+	text-align: center;
+	float: center;
+}
+
 .bottom-nav-bar {
 	padding-top: 10vh;
 	font-family: Questrial;
@@ -255,6 +262,7 @@
 
 
 
+
 /*********************************************************************
 
 	Name:		Push - Bootstrap Button Pack
@@ -353,6 +361,11 @@
 	box-shadow: none;
 }
 
+.btn-greyed {
+	border-color: #A0A0A0
+	color: #A0A0A0;
+}
+
 /******************************************************
 	SHARP BUTTONS
 ******************************************************/
@@ -432,6 +445,11 @@
 	border-color: #bf4343;
 	color: #bf4343;
 	box-shadow: none;
+}
+
+.btn-greyed.outline {
+	border: 2px solid #A0A0A0;
+	color: #A0A0A0;
 }
 
 /******************************************************

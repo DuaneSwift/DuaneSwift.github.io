@@ -25,22 +25,22 @@
 				</div>
 				</div>
 				<div class= compsci-git-pad>
-				<div class="button-group-main">
+				<div class="button-group">
 				<a target="_blank" href = "http://github.com/DuaneSwift" class = "btn btn-danger btn-lg outline padding"> Check out my Github</a>
-			</div>
-			</div>
 			</div>
 			</div>
 			<div class = "button-group">
 			<div class = "rowe">
-			<button class = "btn btn-warning btn outline round" disabled> Java</button>
-			<button class = "btn btn-success btn outline round" disabled> C</button>
-			<button class = "btn btn-info btn outline round" disabled> HTML</button>
-			<button class = "btn btn-primary btn outline round" disabled> CSS</button>
-			<button class = "btn btn-warning btn outline round" disabled> Racket</button>
-			<button class = "btn btn-success btn outline round" disabled> CMD</button>
-			<button class = "btn btn-info btn outline round" disabled> JScript</button>
-			<button class = "btn btn-primary btn outline round" disabled> ACL2S</button>
+			<button class = "btn btn-warning btn outline round remove-clicky"> Java</button>
+			<button class = "btn btn-success btn outline round remove-clicky"> C</button>
+			<button class = "btn btn-info btn outline round remove-clicky"> HTML</button>
+			<button class = "btn btn-primary btn outline round remove-clicky"> CSS</button>
+			<button class = "btn btn-warning btn outline round remove-clicky"> Racket</button>
+			<button class = "btn btn-success btn outline round remove-clicky"> CMD</button>
+			<button class = "btn btn-info btn outline round remove-clicky"> JScript</button>
+			<button class = "btn btn-primary btn outline round remove-clicky" disabled> ACL2S</button>
+			</div>
+			</div>
 			</div>
 			</div>
 			</div>

@@ -26,19 +26,19 @@
 				</div>
 				</div>
 				<div class= compsci-git-pad>
-				<div class="button-group-main">
+				<div class="button-group">
 				<a target="_blank" href = "https://docs.google.com/document/d/1z_HsLV5lMh6qVHBA7wQAEp0qKuAALnEeE7K6SadOZqE/edit?usp=sharing" class = "btn btn-success btn-lg outline padding"> Swift 2015 (Unpublished)</a>
 				<a target="_blank" href = "https://docs.google.com/document/d/1dM8eSNq9yOH8eYzAr0wAn47iHMLOkbD25oZWBONpSbM/edit?usp=sharing" class = "btn btn-success btn-lg outline padding"> Survey for TTEC</a>
 				</div>
 			</div>
-			</div>
-			</div>
 			<div class = "button-group">
 			<div class = "rowe">
-			<button class = "btn btn-warning btn outline round" disabled> English</button>
-			<button class = "btn btn-primary btn outline round" disabled> Spanish</button>
-			<button class = "btn btn-danger btn outline round" disabled> Latin</button>
-			<button class = "btn btn-info btn outline round" disabled> Portuguese</button>
+			<button class = "btn btn-warning btn outline round remove-clicky"> English</button>
+			<button class = "btn btn-primary btn outline round remove-clicky"> Spanish</button>
+			<button class = "btn btn-danger btn outline round remove-clicky"> Latin</button>
+			<button class = "btn btn-info btn outline round remove-clicky"> Portuguese</button>
+			</div>
+			</div>
 			</div>
 			</div>
 			</div>
