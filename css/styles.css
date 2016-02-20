@@ -237,6 +237,10 @@
 	padding: 2vh;
 }
 
+.panel-minwidth {
+	min-width: 650px;
+}
+
 .button {
 	font-family: Questrial;
 }
