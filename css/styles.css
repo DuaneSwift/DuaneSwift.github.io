@@ -29,7 +29,8 @@
 }
 
 .button-group-main {
-	padding-top: 5vh;
+	padding-top: 4vh;
+	padding-bottom: 2vh;
 	font-family: Questrial;
 	text-align: center;
 	float: center;
@@ -360,7 +361,6 @@ a.back-to-top {
 .fademenubutton5 {
 	animation: fadein 2s;
 }
-
 
 
 @keyframes fadein {
