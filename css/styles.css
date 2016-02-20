@@ -292,6 +292,17 @@
   letter-spacing: 4px;
 }
 
+a.back-to-top {
+	display: none;
+	position: fixed;
+	z-index: 999;
+	right: 4vw;
+	bottom: 90vh;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+}
+
 .fade1 {
 
     -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */

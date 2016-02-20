@@ -27,9 +27,23 @@ $(function() {
   });
 }); 
 </script>
+<script>
+var amountScrolled = 700;
+
+$(window).scroll(function() {
+	if ( $(window).scrollTop() > amountScrolled ) {
+		$('a.back-to-top').fadeIn('slow');
+	} else {
+		$('a.back-to-top').fadeOut('slow');
+	}
+});
+</script>
 	</head>
 	<body>
 	<a id="top"></a>
+	<a href="#top" class="back-to-top btn btn-danger btn-lg raised gradient round">
+          <span class="glyphicon glyphicon-arrow-up"></span>
+        </a>
 	<div class = "shift-everything-fucking-down"/>
 	<div class="container fade4"/>
 	<div class "jumbotron">
@@ -229,7 +243,6 @@ $(function() {
 				</div>
 		</nav>
 	</div>
-	
 		<script src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
 		<script src="js/bootstrap.js></script>
 	</body>
