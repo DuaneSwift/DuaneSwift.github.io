@@ -179,7 +179,6 @@
 	font-family: Questrial;
 	line-height: 1.5;
 	font-size: 65px;
-	font-family: Questrial;
 	margin-left: 1vw;
 }
 .panel-title {
@@ -192,7 +191,6 @@
 	font-family: Questrial;
 	line-height: 1.5;
 	font-size: 50px;
-	font-family: Questrial;
 	margin-left: 1vw;
 }
 
@@ -290,22 +288,8 @@
 
 .scroll-top {
   text-align: center;
-}
-
-.alltheprojects {
-	padding-top: 5vh;
-}
-
-.lkdin {
-	text-align: right;
-}
-
-.bth {
-	text-align: right;
-}
-
-.wmbd {
-	text-align: left;
+  font-family: Questrial;
+  letter-spacing: 4px;
 }
 
 
