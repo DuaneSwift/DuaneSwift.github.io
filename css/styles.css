@@ -1,3 +1,7 @@
+
+/**
+PANEL BODY OUTLINES - SLIGHTLY LIGHTER
+*/
 .panel-body-primary {
 	color: #0099cc;
 }
@@ -22,6 +26,9 @@
 	color: #A0A0A0;
 }
 
+/*
+BUTTON GROUPING
+*/
 .button-group {
 	font-family: Questrial;
 	text-align: center;
@@ -36,6 +43,9 @@
 	float: center;
 }
 
+/*
+NAV-BAR MODS
+*/
 .bottom-nav-bar {
 	padding-top: 10vh;
 	font-family: Questrial;
@@ -45,6 +55,9 @@
 	color:#FFFFFF;
 }
 
+/*
+PANEL MODS
+*/
 .panel-primary {
 	border: 2px solid #7DB5CA;
 	color: #0099cc;
@@ -89,91 +102,6 @@
 	padding-top: 3vh;
 }
 
-.cs-head-title {
-	padding: 4vh;
-	letter-spacing: 10px;
-	text-align: center justify;
-    margin: 0 auto;
-	float: center;
-	word-spacing: 10px;
-	font-family: Questrial;
-	line-height: 1.5;
-	font-size: 65px;
-	font-family: Questrial;
-	padding: 2vh;
-	margin-left: 1vh;
-	color: #f25454;
-}
-
-.ling-head-title {
-	padding: 4vh;
-	letter-spacing: 10px;
-	text-align: center justify;
-    margin: 0 auto;
-	float: center;
-	word-spacing: 10px;
-	font-family: Questrial;
-	line-height: 1.5;
-	font-size: 65px;
-	font-family: Questrial;
-	padding: 2vh;
-	margin-left: 1vh;
-	color: #00BF6F;
-}
-
-.comm-head-title {
-	padding: 4vh;
-	letter-spacing: 10px;
-	text-align: center justify;
-    margin: 0 auto;
-	float: center;
-	word-spacing: 10px;
-	font-family: Questrial;
-	line-height: 1.5;
-	font-size: 65px;
-	font-family: Questrial;
-	padding: 2vh;
-	margin-left: 1vh;
-	color: #31CDE8;
-}
-
-.jumbotron-cs-padding {
-	float: center;
-	padding-top: 2vh;
-}
-
-.cs-body-mods {
-	padding-top: 7vh;
-	color: #A27272;
-	padding-bottom: 3vh;
-	font-size: 18px;
-	text-align: justify;
-}
-
-.ling-body-mods {
-	padding-top: 7vh;
-	color: #889288;
-	padding-bottom: 3vh;
-	font-size: 18px;
-	text-align: justify;
-}
-
-.comm-body-mods {
-	padding-top: 7vh;
-	color: #81A5B7;
-	padding-bottom: 3vh;
-	font-size: 18px;
-	text-align: justify;
-}
-
-.compsci-git-pad {
-	padding-top: 5vh;
-	padding-bottom: 1vh;
-}
-
-.shift-everything-fucking-down {
-	padding-top: 11vh;
-}
 .panel-head-title {
 	padding: 2vh;
 	letter-spacing: 5px;
@@ -213,14 +141,6 @@
 	margin-bottom: 4vh;
 }
 
-.rowe > div {
-  display: inline-block;
-  vertical-align: top;
-  margin-right: 3vw;
-  margin-left: 3vw;
-  float: center;
-}
-
 .panel-body {
 	padding: 2vh;
 	letter-spacing: 2px;
@@ -238,20 +158,138 @@
 }
 
 .panel-minwidth {
-	min-width: 650px;
+	min-width: 450px;
+}
+
+.panel-minwidth-onehalf {
+	min-width: 550px;
+}
+.panel-minwidth-two {
+	min-width: 700px;
+}
+
+.panel-minwidth-three {
+	min-width: 1000px;
+}
+
+/*
+CS Page Mods
+*/
+
+.cs-head-title {
+	padding: 4vh;
+	letter-spacing: 10px;
+	text-align: center justify;
+    margin: 0 auto;
+	float: center;
+	word-spacing: 10px;
+	font-family: Questrial;
+	line-height: 1.5;
+	font-size: 65px;
+	font-family: Questrial;
+	padding: 2vh;
+	margin-left: 1vh;
+	color: #f25454;
+}
+
+.jumbotron-cs-padding {
+	float: center;
+	padding-top: 2vh;
+}
+
+.cs-body-mods {
+	padding-top: 7vh;
+	color: #A27272;
+	padding-bottom: 3vh;
+	font-size: 18px;
+	text-align: justify;
+}
+
+.compsci-git-pad {
+	padding-top: 5vh;
+	padding-bottom: 1vh;
+}
+
+/*
+LING Page Mods
+*/
+
+.ling-head-title {
+	padding: 4vh;
+	letter-spacing: 10px;
+	text-align: center justify;
+    margin: 0 auto;
+	float: center;
+	word-spacing: 10px;
+	font-family: Questrial;
+	line-height: 1.5;
+	font-size: 65px;
+	font-family: Questrial;
+	padding: 2vh;
+	margin-left: 1vh;
+	color: #00BF6F;
+}
+
+.ling-body-mods {
+	padding-top: 7vh;
+	color: #889288;
+	padding-bottom: 3vh;
+	font-size: 18px;
+	text-align: justify;
+}
+
+/*
+Comm Page Mods
+*/
+
+.comm-head-title {
+	padding: 4vh;
+	letter-spacing: 10px;
+	text-align: center justify;
+    margin: 0 auto;
+	float: center;
+	word-spacing: 10px;
+	font-family: Questrial;
+	line-height: 1.5;
+	font-size: 65px;
+	font-family: Questrial;
+	padding: 2vh;
+	margin-left: 1vh;
+	color: #31CDE8;
+}
+
+.comm-body-mods {
+	padding-top: 7vh;
+	color: #81A5B7;
+	padding-bottom: 3vh;
+	font-size: 18px;
+	text-align: justify;
+}
+
+/*
+Random Mods
+*/
+
+.shift-everything-fucking-down {
+	padding-top: 11vh;
+}
+
+.rowe > div {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 3vw;
+  margin-left: 3vw;
+  float: center;
 }
 
 .button {
 	font-family: Questrial;
+	position: absolute;
+    top: 50%;
 }
 
 .wrapper {
     text-align: center;
-}
-
-.button {
-    position: absolute;
-    top: 50%;
 }
 
 .jumbotron{
@@ -295,6 +333,9 @@
 	color: #808080;
 }
 
+/*
+Animation CSS
+*/
 #scrolltop {
   text-align: center;
   font-family: Questrial;
@@ -306,7 +347,7 @@ a.back-to-top {
 	position: fixed;
 	z-index: 999;
 	right: 4vw;
-	bottom: 90vh;
+	bottom: 89.25vh;
 	-webkit-border-radius: 30px;
 	-moz-border-radius: 30px;
 	border-radius: 30px;
@@ -395,9 +436,6 @@ a.back-to-top {
     from { opacity: 0; }
     to   { opacity: 1; }
 }
-
-
-
 
 /*********************************************************************
 
